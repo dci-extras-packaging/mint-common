@@ -1,0 +1,117 @@
+mint-common (1.1.8) betsy; urgency=medium
+
+  * Changed the icon for the thunderbird nemo action
+
+ -- Clement Lefebvre <root@linuxmint.com>  Wed, 18 Feb 2015 10:13:07 +0100
+
+mint-common (1.1.7) betsy; urgency=medium
+
+  * Removed /usr/share/pixmaps/faces/user-generic.png (provided by mdm)
+
+ -- Clement Lefebvre <root@linuxmint.com>  Fri, 30 Jan 2015 09:58:18 +0100
+
+mint-common (1.1.6) betsy; urgency=medium
+
+  * Updated user pictures in /usr/share/pixmaps/faces
+
+ -- Clement Lefebvre <root@linuxmint.com>  Fri, 30 Jan 2015 09:52:34 +0100
+
+mint-common (1.1.5) qiana; urgency=medium
+
+  * Support GenericName in additionalfiles.py
+
+ -- Clement Lefebvre <root@linuxmint.com>  Sun, 04 May 2014 13:25:19 +0100
+
+mint-common (1.1.4) qiana; urgency=medium
+
+  * Improved additionalfiles.py
+
+ -- Clement Lefebvre <root@linuxmint.com>  Sun, 04 May 2014 02:22:41 +0100
+
+mint-common (1.1.3) qiana; urgency=medium
+
+  * Updated desktop files
+  * provides additionalfiles.py
+
+ -- Clement Lefebvre <root@linuxmint.com>  Sun, 04 May 2014 01:39:53 +0100
+
+mint-common (1.1.2) qiana; urgency=medium
+
+  * Correct the syntax for Thunderbird file attachments
+  * Added mint-remove-application.py and cinnamon-remove-application
+  * Added dep on synaptic
+
+ -- Clement Lefebvre <root@linuxmint.com>  Mon, 14 Apr 2014 13:07:20 +0100
+
+mint-common (1.1.1) petra; urgency=low
+
+  * Improved generate_additional_files.py, refreshed translations for email nemo action
+
+ -- Clement Lefebvre <root@linuxmint.com>  Sun, 24 Nov 2013 19:16:27 +0000
+
+mint-common (1.1.0) olivia; urgency=low
+
+  * Added nemo action for thunderbird
+
+ -- Clement Lefebvre <root@linuxmint.com>  Thu, 22 Aug 2013 14:28:58 +0100
+
+mint-common (1.0.9) nadia; urgency=low
+
+  * Added a collection of faces icons
+
+ -- Clement Lefebvre <root@linuxmint.com>  Mon, 07 Jan 2013 16:04:21 +0000
+
+mint-common (1.0.8) maya; urgency=low
+
+  * Added entrydialog
+
+ -- Clement Lefebvre <root@linuxmint.com>  Mon, 30 Jul 2012 14:28:05 +0100
+
+mint-common (1.0.7) maya; urgency=low
+
+  * Added env_check
+
+ -- Clement Lefebvre <root@linuxmint.com>  Mon, 25 Jun 2012 14:30:28 +0100
+
+mint-common (1.0.6) lisa; urgency=low
+
+  * Use gksu in KDE if it's installed
+
+ -- Clement Lefebvre <root@linuxmint.com>  Thu, 15 Dec 2011 11:54:24 +0000
+
+mint-common (1.0.5) helena; urgency=low
+
+  * Added dependency on mint-translations
+
+ -- Clement Lefebvre <root@linuxmint.com>  Tue,  3 Nov 2009 12:23:00 +0000
+
+mint-common (1.0.4) helena; urgency=low
+
+  * Changed translation framework
+
+ -- Clement Lefebvre <root@linuxmint.com>  Tue,  3 Nov 2009 11:38:00 +0000
+
+mint-common (1.0.3) helena; urgency=low
+
+  * Added launch_browser_as.py
+
+ -- Clement Lefebvre <root@linuxmint.com>  Fri,  30 Oct 2009 17:43:00 +0000
+
+mint-common (1.0.2) helena; urgency=low
+
+  * Added a lot of stuff
+
+ -- Clement Lefebvre <root@linuxmint.com>  Wed,  7 Oct 2009 16:41:00 +0000
+
+mint-common (1.0.1) helena; urgency=low
+
+  * Added Linux Mint logo
+
+ -- Clement Lefebvre <root@linuxmint.com>  Wed,  7 Oct 2009 16:24:00 +0000
+
+mint-common (1.0.0) helena; urgency=low
+
+  * Initial release
+
+ -- Clement Lefebvre <root@linuxmint.com>  Wed,  7 Oct 2009 14:18:00 +0000
+
